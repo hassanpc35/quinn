@@ -1,9 +1,0 @@
-const String splashRoute = '/splash';
-const String registrationRoute = '/registration';
-const String loginRoute = '/login';
-const String homeRoute = '/home';
-const String addRoom = '/addRoom';
-const String forgetPasswordRoute = '/forgotPassword';
-const String addAppliancesRoute = '/addAppliances';
-const String analyticsRoute ='/analytics';
-const String dashboardRoute ='/dashboard';
