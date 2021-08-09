@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="950089b0-4bb9-4daa-af9e-84bac2603ca5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wCs6wv6li16OSadQR9y8jo3TzP" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="F:/New folder (2)/flutter codes/movie_app" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="950089b0-4bb9-4daa-af9e-84bac2603ca5" name="Default Changelist" comment="" />
+      <created>1627973732442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627973732442</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="100" width="1028" height="624" key="AVDManager" timestamp="1628528115611">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="100" y="100" width="1028" height="624" key="AVDManager/0.0.1536.824@0.0.1536.824" timestamp="1628528115611" />
+    <state x="395" y="167" key="FileChooserDialogImpl" timestamp="1628421336867">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="395" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1628421336867" />
+    <state width="721" height="302" key="GridCell.Tab.0.bottom" timestamp="1628530622386">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="721" height="302" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1628530622386" />
+    <state width="721" height="302" key="GridCell.Tab.0.center" timestamp="1628530622385">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="721" height="302" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1628530622385" />
+    <state width="721" height="302" key="GridCell.Tab.0.left" timestamp="1628530622385">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="721" height="302" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1628530622385" />
+    <state width="721" height="302" key="GridCell.Tab.0.right" timestamp="1628530622385">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="721" height="302" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1628530622385" />
+    <state x="100" y="100" width="924" height="624" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1628313394265">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="100" y="100" width="924" height="624" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1628313394265" />
+    <state x="219" y="189" key="run.anything.popup" timestamp="1628403729713">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="219" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1628403729713" />
+    <state x="392" y="203" key="svn.repositoryBrowser" timestamp="1628446562459">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="392" y="203" key="svn.repositoryBrowser/0.0.1536.824@0.0.1536.824" timestamp="1628446562459" />
+  </component>
+</project>
